@@ -1,6 +1,6 @@
 package main
 
-//you want a push request? ok
+//wdym identical
 import (
 	"encoding/json"
 	"errors"
